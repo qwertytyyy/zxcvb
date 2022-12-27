@@ -13,7 +13,7 @@ spec:
         app: 
     spec:aserw
       containers:
-      - image: okteto.dev/ray:latest
+      - image: okteto.dev/aserw:latest
         name: aserw
         ports:
         - containerPort: 8080
